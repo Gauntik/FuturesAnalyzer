@@ -1,0 +1,11 @@
+{
+    "applications": {
+        "FuturesAnalyzer": {
+            "applicationId": "mlz4mo3ymRS79uVAMlZCSwFMYCPr4YR2kMVDEY3n", 
+            "masterKey": "4unt9w7tvOpSScEaHJiydzSyzQFNriQ16zeKlbUm"
+        }, 
+        "_default": {
+            "link": "FuturesAnalyzer"
+        }
+    }
+}
